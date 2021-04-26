@@ -41,6 +41,8 @@
     "rememberMeKey": "9e70f62b3ef155fe8f027810315c7db65c15f63000f99108fb5223ec93aaaf7aa623612d3c9a6a083656abb6113ad9656b14",
     "clientPackageManager": "npm",
     "clientThemeVariant": "",
-    "languages": ["en"]
+    "languages": ["en"],
+    "entities": ["Blog", "Entry", "Tag"],
+    "lastLiquibaseTimestamp": 1619430748000
   }
 }
