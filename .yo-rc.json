@@ -43,6 +43,9 @@
     "clientThemeVariant": "",
     "languages": ["en"],
     "entities": ["Blog", "Entry", "Tag"],
-    "lastLiquibaseTimestamp": 1619430748000
+    "lastLiquibaseTimestamp": 1619430748000,
+    "herokuAppName": "infinite-depths-43197",
+    "herokuDeployType": "git",
+    "herokuJavaVersion": "11"
   }
 }
